@@ -1,0 +1,5 @@
+172.18.0.1 - - [20/Jun/2020:01:21:17 +0000] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0" "-"
+172.18.0.1 - - [20/Jun/2020:01:21:19 +0000] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0" "-"
+172.18.0.1 - - [20/Jun/2020:01:21:19 +0000] "GET /favicon.ico HTTP/1.1" 499 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0" "-"
+172.18.0.1 - - [20/Jun/2020:01:21:20 +0000] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0" "-"
+172.18.0.1 - - [20/Jun/2020:01:21:21 +0000] "GET / HTTP/1.1" 200 46 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:77.0) Gecko/20100101 Firefox/77.0" "-"
