@@ -7,6 +7,8 @@ RUN apk update && apk add \
     openssl \
     bash
 
+COPY nginx.conf /etc/nginx/nginx.conf
+
 COPY generate-ssl.sh /etc/nginx/generate-ssl.sh
 RUN chmod +x /etc/nginx/generate-ssl.sh
 RUN cd /etc/nginx && ./generate-ssl.sh
